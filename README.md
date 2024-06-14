@@ -1,1 +1,1 @@
-***[gradient-text](https://volkov-lev.github.io/gradient-text.io/)***
+***[gradient-text](https://volkov-lev.github.io/gradient-text/)***
